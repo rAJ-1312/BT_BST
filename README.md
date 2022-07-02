@@ -11,3 +11,6 @@ This repo will contain the code of all the questions of BT/BST from basic to int
 7. Postorder Traversal of Binary Tree(Iterative Method) -> postorder_ite.cpp
 8. All DFS traversal in one Traverse(Iterative Method) -> preinpost_ite.cpp
 9. Maximum Height or Maximum Depth of a Binary Tree(Recursive Method) -> maxHeight_maxDepth.cpp
+10. Check if a Binary Tree is Height Balanced or not(Recursive Method) -> isHeightBalance.cpp
+11. Diameter of a Binary Tree(in O(n) time using height method) -> diameter.cpp
+12. Max Path Sum of a Binary Tree(using height method) -> maxPathSum.cpp
