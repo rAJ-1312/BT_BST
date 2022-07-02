@@ -3,3 +3,5 @@ This repo will contain the code of all the questions of BT/BST from basic to int
 
 
 1. Preorder Traversal of Binary Tree(Recursive Method) -> preorder_rec.cpp
+2. Inorder Traversal of Binary Tree(Recursive Method) -> inorder_rec.cpp
+3. Postorder Traversal of Binary Tree(Recursive Method) -> postorder_rec.cpp
