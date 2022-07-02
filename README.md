@@ -10,3 +10,4 @@ This repo will contain the code of all the questions of BT/BST from basic to int
 6. Inorder Traversal of Binary Tree(Iterative Method) -> inorder_ite.cpp
 7. Postorder Traversal of Binary Tree(Iterative Method) -> postorder_ite.cpp
 8. All DFS traversal in one Traverse(Iterative Method) -> preinpost_ite.cpp
+9. Maximum Height or Maximum Depth of a Binary Tree(Recursive Method) -> maxHeight_maxDepth.cpp
