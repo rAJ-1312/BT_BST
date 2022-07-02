@@ -14,3 +14,4 @@ This repo will contain the code of all the questions of BT/BST from basic to int
 10. Check if a Binary Tree is Height Balanced or not(Recursive Method) -> isHeightBalance.cpp
 11. Diameter of a Binary Tree(in O(n) time using height method) -> diameter.cpp
 12. Max Path Sum of a Binary Tree(using height method) -> maxPathSum.cpp
+13. Check if two BT's are same or not(Recursive Method) -> isSameBT.cpp
