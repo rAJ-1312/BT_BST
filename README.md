@@ -15,3 +15,5 @@ This repo will contain the code of all the questions of BT/BST from basic to int
 11. Diameter of a Binary Tree(in O(n) time using height method) -> diameter.cpp
 12. Max Path Sum of a Binary Tree(using height method) -> maxPathSum.cpp
 13. Check if two BT's are same or not(Recursive Method) -> isSameBT.cpp
+14. Zig-Zag traversal of a Binary Tree(Iterative Method) -> zig_zagLOT.cpp
+15. Boundary Traversal of a Binary Tree(Iterative Method) -> boundaryTravesal.cpp
